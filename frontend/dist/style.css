@@ -1,0 +1,47 @@
+body {
+  background-color: #4D51E6 !important;
+}
+
+.text-gray {
+  color: #E5E7EB !important;
+}
+
+.text-yellow {
+  color: #F9D13E !important;
+}
+
+.text-purple {
+  color: #6960c7 !important;
+}
+
+.bg-main {
+  background-color: #F4F5FB !important;
+}
+
+.bg-gray {
+  background-color: #E6E8EC !important;
+}
+
+.bg-yellow {
+  background-color: #F9D13E !important;
+}
+
+.bg-transparent {
+  background-color: transparent !important;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.font-weight-600 {
+  font-weight: 600 !important;
+}
+
+.font-weight-800 {
+  font-weight: 800 !important;
+}
+
+.border-none {
+  border: none !important;
+}
